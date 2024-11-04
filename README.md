@@ -60,6 +60,7 @@ The dataset includes the following key column
 - Pie Charts: Provide insights into percentage distribution.
 - Tree Map: Offer detailed data views.
 - Using Slicers and Filters: Enhance user-driven filtering by adding slicers (e.g., period of day). 
+![Screenshot 2024-10-18 163948](https://github.com/user-attachments/assets/239b2344-3290-475f-8e9e-13a72db73862)
 
 ### RECOMMENDATIONS
 1.	Focus on branch-specific strategies
